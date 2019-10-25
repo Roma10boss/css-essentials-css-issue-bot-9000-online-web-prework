@@ -5,6 +5,7 @@ body {
 h1 {
   color: blue;
   font-size: 3em; 
+  font-family: 3em;
 }
 
 h2 {
@@ -14,7 +15,8 @@ h2 {
 }
 
 #tasks .completed {
-  font-family: 12em;
+  font-size: 12px;
+  font-family: 12px;
 }
 
 #tasks .completed {
